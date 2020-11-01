@@ -13,7 +13,7 @@
 }
 
 #hero {
-	margin-top: 53%;
+	margin-top: 63%;
 }
 
 .logo {
@@ -27,7 +27,7 @@
     font-weight: normal;
 	text-align: justify;
 	padding-top: .5em;
-	margin-left: 7em;
+	margin-left: 4em;
     word-spacing: .3em;
 	padding-bottom: .7em;
 	transition: all 0.5s ease-in-out; 
