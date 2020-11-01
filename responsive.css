@@ -1,0 +1,245 @@
+@media screen and (max-width: 800px){
+	#header-wrap {
+	background: url("IMG/landing.jpg") no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 2%;
+	height: 90vh;
+	margin: 0;
+}
+
+#menu-list {
+	font-size: 52%;
+}
+
+#hero {
+	margin-top: 53%;
+}
+
+.logo {
+	height: 150px;
+	width: auto;
+	padding: 2px;
+    margin-left: 4%;
+}
+
+#tag-wrap p {
+    font-weight: normal;
+	text-align: justify;
+	padding-top: .5em;
+	margin-left: 7em;
+    word-spacing: .3em;
+	padding-bottom: .7em;
+	transition: all 0.5s ease-in-out; 
+	color: white; 
+	ext-shadow:rgba(51,153,204,0.5) 0.5px 0.5px 1px;
+	font-size:100%;
+	font-family:"Lucida Console", Monaco, monospace;
+	font-weight:300;
+}
+
+/*first sect */
+#showcase-wrap {
+  display: grid;
+/*  flex-direction: column;*/
+  grid-template-columns: 1fr 1fr;
+  height: 480px;
+/*  width: 90%;*/
+  margin: 0 auto;
+}
+
+    
+.img1 p,
+.img2 p,
+.img3 p {
+  text-align: center;
+  padding: 85px 50px 90px;
+}
+
+.cols {
+    display: flex;
+    flex-direction: column;
+    padding: .4em;
+}    
+
+.img-box {
+    display: flex;
+    flex-direction: column;
+    width: 87%;
+    height: 90%;
+
+}
+.fastfoods {
+    height: 150px;
+    width: 100%;
+}
+
+.fastFood {
+    margin: 9% 1% 1% 0;
+}
+
+/*
+ .short-copy,
+.long-copy {
+     font-size: 60%;   
+    }
+*/
+.long-copy {
+    padding: .1em 3em .1em 0;
+}
+
+.drinks {
+    padding: 1.5em 0 0 0;
+} 
+.rectangle {
+    margin: 1.3em 0 .5em .1em;
+    width: 56%;
+    height: 46%;
+}
+
+.drink-box {
+    display: flex;
+}
+
+.drink {
+    height: 150px;
+    width: 100%;
+    
+}
+.gallery-box {
+  width: 90%;
+}
+#gallery-list {
+  padding-left: 2em;
+}
+
+#fig-box {
+  display: flex;
+  width: 90%;
+  margin:2% auto;
+  overflow: scroll;
+}
+
+.figure-box {
+  display: flex;
+}
+
+.cap {
+  font-size: 60%;
+  padding: .2em 0 .5em 0;
+}
+.figures {
+        width: 150px;
+    }
+
+#box2,
+#box3,
+#box4 {
+    display:none;
+}
+/*--testimonial-section---*/
+
+.fourth-sect {
+    padding: 40px 15px;
+}
+
+.show-box {
+    display: flex;
+    flex-direction: column;
+    /*width: 80%;
+    margin: 1% auto;*/
+    padding: 1em;
+}
+
+.copy {
+    padding: .5em 5em;
+}
+
+.slideshow img {
+    padding: 0 3.5em;
+}
+
+.slide-head {
+  
+    padding-bottom: .2em;
+  transition: all 0.5s ease-in-out; 
+  color: orangered; 
+  font-size:100%;
+  font-family:"Lucida Console", Monaco, monospace;
+  font-weight:300;
+
+}
+
+.about-copy {
+    padding:  1.5em;
+    padding-bottom: .5em;
+}
+.about-box {
+    background: url(white.png);
+    box-shadow: 1px 2px 10px 2px grey; 
+    margin: 3em .3em;
+    padding: 1em;
+}
+
+/*--footer---*/
+    
+.parent {
+    background: url(IMG/subscribe.jpg) no-repeat;
+    background-size: cover;
+    padding: 0;
+}
+
+.subscribe {
+    width: 47%;
+    padding-left: .8em;
+}
+
+.more-ft {
+    font-size: 100%;
+    padding-top: 1.8em;
+    line-height: 30px;
+}
+
+#myform {
+    padding-bottom: 2em;
+}
+    
+input[type="email"] {
+    width: 47%;
+    height: 3em;
+    float: none;
+}
+
+button {
+    font-size: 80%;
+    height: 3em;
+    width: 100%;
+    margin: 4em 0 0 0;
+    float: none;
+}
+}
+/*--tablet size--*/
+@media screen and (min-width: 1600px) {
+    
+/*--header--*/
+
+#header-wrap {
+  
+  background-position: center;
+}
+    
+#hero {
+  margin-top: 23%;
+}
+
+.menu {
+  height: 30px;
+  width: auto;
+    }
+#tag-wrap p {
+  font-size: 145%;
+  text-align: justify;
+  margin-left: 13.5em;
+}
+    
+}
