@@ -1,4 +1,4 @@
-@media screen and (max-width: 740px){
+@media screen and (max-width: 800px){
 	#header-wrap {
 	background: url("IMG/landing.jpg") no-repeat;
 	background-size: cover;
@@ -13,7 +13,7 @@
 }
 
 #hero {
-	margin-top: 63%;
+	margin-top: 65%;
 }
 
 .logo {
@@ -27,7 +27,7 @@
     font-weight: normal;
 	text-align: justify;
 	padding-top: .5em;
-	margin-left: 4em;
+	margin-left: 3em;
     word-spacing: .3em;
 	padding-bottom: .7em;
 	transition: all 0.5s ease-in-out; 
@@ -44,7 +44,7 @@
 /*  flex-direction: column;*/
   grid-template-columns: 1fr 1fr;
   height: 480px;
-/*  width: 90%;*/
+
   margin: 0 auto;
 }
 
@@ -53,7 +53,7 @@
 .img2 p,
 .img3 p {
   text-align: center;
-  padding: 85px 50px 90px;
+  padding: 80px 40px 85px;
 }
 
 .cols {
@@ -93,7 +93,7 @@
 } 
 .rectangle {
     margin: 1.3em 0 .5em .1em;
-    width: 56%;
+    width: 78%;
     height: 46%;
 }
 
@@ -107,7 +107,7 @@
     
 }
 .gallery-box {
-  width: 90%;
+  width: 97%;
 }
 #gallery-list {
   padding-left: 2em;
@@ -129,7 +129,7 @@
   padding: .2em 0 .5em 0;
 }
 .figures {
-        width: 150px;
+        width: 135px;
     }
 
 #box2,
@@ -190,8 +190,7 @@
 }
 
 .subscribe {
-    width: 47%;
-    padding-left: .8em;
+    width: 95%;
 }
 
 .more-ft {
@@ -208,14 +207,16 @@ input[type="email"] {
     width: 47%;
     height: 3em;
     float: none;
+    margin-left: 90px;
 }
 
 button {
     font-size: 80%;
     height: 3em;
-    width: 100%;
+    width: 50%;
     margin: 4em 0 0 0;
     float: none;
+    margin-left: 90px;
 }
 }
 /*--tablet size--*/
