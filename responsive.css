@@ -13,7 +13,7 @@
 }
 
 #hero {
-	margin-top: 65%;
+	margin-top: 85%;
 }
 
 .logo {
@@ -27,7 +27,7 @@
     font-weight: normal;
 	text-align: justify;
 	padding-top: .5em;
-	margin-left: 3em;
+	margin-left: 1em;
     word-spacing: .3em;
 	padding-bottom: .7em;
 	transition: all 0.5s ease-in-out; 
@@ -102,7 +102,7 @@
 }
 
 .drink {
-    height: 150px;
+    height: 130px;
     width: 100%;
     
 }
@@ -129,7 +129,7 @@
   padding: .2em 0 .5em 0;
 }
 .figures {
-        width: 135px;
+        width: 110px;
     }
 
 #box2,
@@ -190,11 +190,11 @@
 }
 
 .subscribe {
-    width: 95%;
+    width: 90%;
 }
 
 .more-ft {
-    font-size: 100%;
+    font-size: 80%;
     padding-top: 1.8em;
     line-height: 30px;
 }
