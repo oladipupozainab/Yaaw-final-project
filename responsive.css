@@ -106,11 +106,14 @@
     width: 90%;
     
 }
+.drinkA{
+width:100px;
+}
 .gallery-box {
-  width: 97%;
+  width: 90%;
 }
 #gallery-list {
-  padding-left: 2em;
+  padding-left: 1em;
 }
 
 #fig-box {
