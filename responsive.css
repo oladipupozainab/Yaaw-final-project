@@ -27,7 +27,7 @@
     font-weight: normal;
 	text-align: justify;
 	padding-top: .5em;
-	margin-left: 1em;
+	margin-left: 6em;
     word-spacing: .3em;
 	padding-bottom: .7em;
 	transition: all 0.5s ease-in-out; 
@@ -103,7 +103,7 @@
 
 .drink {
     height: 130px;
-    width: 90%;
+    width: 100%;
     
 }
 .gallery-box {
