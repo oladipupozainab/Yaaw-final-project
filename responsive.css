@@ -13,7 +13,7 @@
 }
 
 #hero {
-	margin-top: 60%;
+	margin-top: 50%;
 }
 
 .logo {
@@ -27,7 +27,7 @@
     font-weight: normal;
 	text-align: justify;
 	padding-top: .5em;
-	margin-left: 10em;
+	margin-left: .10em;
     word-spacing: .3em;
 	padding-bottom: .7em;
 	transition: all 0.5s ease-in-out; 
@@ -105,6 +105,9 @@
     height: 130px;
     width: 100%;
     
+}
+.drinkA{
+width:200px;
 }
 .gallery-box {
   width: 90%;
