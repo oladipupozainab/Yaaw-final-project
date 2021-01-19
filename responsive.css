@@ -27,7 +27,7 @@
     font-weight: normal;
 	text-align: justify;
 	padding-top: .5em;
-	margin-left: 1em;
+	margin-left: .6em;
     word-spacing: .3em;
 	padding-bottom: .7em;
 	transition: all 0.5s ease-in-out; 
@@ -65,7 +65,7 @@
 .img-box {
     display: flex;
     flex-direction: column;
-    width: 87%;
+    width: 60%;
     height: 90%;
 
 }
@@ -93,7 +93,7 @@
 } 
 .rectangle {
     margin: 1.3em 0 .5em .1em;
-    width: 78%;
+    width: 68%;
     height: 46%;
 }
 
